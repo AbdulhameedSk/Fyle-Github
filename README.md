@@ -1,7 +1,5 @@
 # Fyle-Github
 
-# Project Readme
-
 This readme file provides instructions on how to run the HTML, CSS, and JavaScript files included in this project in a web browser.
 
 ## Prerequisites
